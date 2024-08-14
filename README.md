@@ -1,10 +1,10 @@
 # CONTEXTO
 
-La compañía "X" se dedica a la comercialización de tres categorías principales: Muebles, Tecnología y Material para oficina. Asimismo, dentro de estas tres categorías existen 17 subcategorías para comercializar. Es importante señalar que, los segmentos de mercado de esta compañia estan enfocados a : Corporativos, Clientes y Home office. Actualmente tiene presencia en 59 estados (10 de Canada y 49 de EUA)
+La compañía "X" se dedica a la comercialización de tres categorías principales de productos: Muebles, Tecnología y Material para oficina. Asimismo, dentro de estas tres categorías existen 17 subcategorías para comercializar. Es importante señalar que, los segmentos de mercado de esta compañia estan enfocados a : Corporativos, Clientes y Home office. Actualmente tiene presencia en 59 estados (10 de Canada y 49 de EUA)
 
 ## OBJETIVO
 
-La compañia dispone de registros de ventas del periodo 2020-2023, y desea realizar un análisis que le permita tomar las desiciones e implementar las estrategias que le permitan ser más competivos en el mercado.
+La compañia dispone de registros de ventas del periodo 2020-2023, y desea realizar un análisis que le ayude tomar las desiciones e implementar las estrategias que le permitan ser más competivos en el mercado, una compañía sostenoble en el tiempo.
 
 ## PASOS A SEGUIR
 
@@ -31,5 +31,7 @@ La compañia dispone de registros de ventas del periodo 2020-2023, y desea reali
 
 4. ANÁLISIS: Actualmente las ventas en Canada, representan solo el 2% del total, por lo que claramente es un mercado en expansión. Asimismo, de la Unión Americana podemos resaltar los 5 estados top en ventas y con tendencia claramente a la mejora: California, New York, Texas, Washintong y Pensilvanya, juntos representan el 51% de ingresos por ventas. Un dato importante a señalr es que, de los 1926 productos comercializados durante el período 2020-2023, el 20% (385 productos) representan el 78% de las ventas totales.
 
-5. Referente al Dashboard página General. Se muestra una columna con título de ventas y con tres filtros por País, Estado y Ciudad. Asimismo, se muestra una grafica de barras (Total de ventas por producto) que esta ligada a la página detalle por cliente. Adicionalmente un mapa señalizando con burbujas las ventas 
+5. Referente al Dashboard página General. Se muestra una columna con título de ventas y con tres filtros para consultar las ventas por País, Estado y Ciudad. Asimismo, se muestra una grafica de barras (Total de ventas por producto) que esta ligada a la página Detalle por cliente, destaca como producto estrella "Cannon imageCLASS". Adicionalmente un mapa señalizando con burbujas las ventas por Estado y el tamaño de la burbuja es proporcional a las ventas (Destaca en primer lugar California). Se icluye tambien una grafica lineal donde se muestran las ventas por subcategoría de los productos, resalta como subcategoría estrella "Chairs". Finalmente en la parte superior se muestran tres tarjetas que indican el Total de ventas, el Total de ganancias y los Estados donde tiene presencia la compañia.
+
+6. 
 
