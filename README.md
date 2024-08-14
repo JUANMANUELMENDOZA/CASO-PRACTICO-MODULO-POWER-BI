@@ -19,7 +19,7 @@ La compañia dispone de registros de ventas del periodo 2020-2023, y desea reali
 ![Captura de Pantalla 2024-08-14 a la(s) 10 02 07 a m](https://github.com/user-attachments/assets/9da6f6e2-543e-4b22-b4c5-ac73f00f3c38)
 
 
-3.2 Página resumen
+3.2 Página Resumen
 
 ![Captura de Pantalla 2024-08-14 a la(s) 10 02 24 a m](https://github.com/user-attachments/assets/820a01a4-0c40-484c-8a7b-c2de815b4dbb)
 
@@ -33,5 +33,9 @@ La compañia dispone de registros de ventas del periodo 2020-2023, y desea reali
 
 5. Referente al Dashboard página General. Se muestra una columna con título de ventas y con tres filtros para consultar las ventas por País, Estado y Ciudad. Asimismo, se muestra una grafica de barras (Total de ventas por producto) que esta ligada a la página Detalle por cliente, destaca como producto estrella "Cannon imageCLASS". Adicionalmente un mapa señalizando con burbujas las ventas por Estado y el tamaño de la burbuja es proporcional a las ventas (Destaca en primer lugar California). Se icluye tambien una grafica lineal donde se muestran las ventas por subcategoría de los productos, resalta como subcategoría estrella "Chairs". Finalmente en la parte superior se muestran tres tarjetas que indican el Total de ventas, el Total de ganancias y los Estados donde tiene presencia la compañia.
 
-6. 
+6. En lo que respecta al Dashboard página Resumen. Es una página para navegar de forma vinculada con la página General, en esta página se incluye una mátriz que muestra el comportamiento de ventas por subcategpría y contrasta con de segmento del mercado donde esta enfocada la empresa. Aquí podemos resltar que el segmento Clientes representa el 50% del total de ventas, Corporativo el 31% y Home office el 19%.
+
+7. En el citado Dashboard página Detalle por cliente, en una tabla se muestran los datos básicos de clientes, nombre, ciudad CP, Estado, ID. Se vincula con página General y en particular con la gráfica de barras donde se muestran las ventas por producto y con la opción de consultar el detalle por clientes que compraron algún producto.
+
+8. Con los análisis realizados, los Directivos de la empresa tienen los elementos necesarios para mediante una reflexión estratégica determinen los objetivos, indicadores y metas que guiara a la compañia el siguiente ciclo. Importante es la difusión del plan estratégico en toda la compañia y el seguimento a su implementación y ejecución.
 
