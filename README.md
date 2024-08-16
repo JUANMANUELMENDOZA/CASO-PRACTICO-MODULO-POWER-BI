@@ -1,6 +1,6 @@
 # CONTEXTO
 
-La compañía "X" se dedica a la comercialización de tres categorías principales de productos: Muebles, Tecnología y Material para oficina. Asimismo, dentro de estas tres categorías existen 17 subcategorías para comercializar. Es importante señalar que, los segmentos de mercado de esta compañia estan enfocados a : Corporativos, Clientes y Home office. Actualmente tiene presencia en 59 estados (10 de Canada y 49 de EUA)
+La compañía "X" se dedica a la comercialización de tres categorías principales de productos: Muebles, Tecnología y Material para oficina. Asimismo, dentro de estas tres categorías existen 17 subcategorías para comercializar. Es importante señalar que, los segmentos de mercado de esta compañia estan enfocados a : Corporativos, Consumidor y Home office. Actualmente tiene presencia en 59 estados (10 de Canada y 49 de EUA)
 
 ## OBJETIVO
 
@@ -33,7 +33,7 @@ La compañia dispone de registros de ventas del periodo 2020-2023, y desea reali
 
 5. Referente al Dashboard página General. Se muestra una columna con título de ventas y con tres filtros para consultar las ventas por País, Estado y Ciudad. Asimismo, se muestra una grafica de barras (Total de ventas por producto) que esta ligada a la página Detalle por cliente, destaca como producto estrella "Cannon imageCLASS". Adicionalmente un mapa señalizando con burbujas las ventas por Estado y el tamaño de la burbuja es proporcional a las ventas (Destaca en primer lugar California). Se icluye tambien una grafica lineal donde se muestran las ventas por subcategoría de los productos, resalta como subcategoría estrella "Chairs". Finalmente en la parte superior se muestran tres tarjetas que indican el Total de ventas, el Total de ganancias y los Estados donde tiene presencia la compañia. Podemos resaltar que si el total de ventas fue de 2.33 MDD y el total de ganancias 0.29 MDD, el margen de ganancia es del 12.4%, el resto de las ventas son los gastos de operación e impuestos principalmente.
 
-6. En lo que respecta al Dashboard página Resumen. Es una página para navegar de forma vinculada con la página General, en esta página se incluye una mátriz que muestra el comportamiento de ventas por categpría y contrasta con de segmento del mercado donde esta enfocada la empresa. Aquí podemos resltar que el segmento Clientes representa el 50% del total de ventas, Corporativo el 31% y Home office el 19%. Asimismo, se puede filtrar por país cada una de las categorías y evaluar su comportamiento.
+6. En lo que respecta al Dashboard página Resumen. Es una página para navegar de forma vinculada con la página General, en esta página se incluye una mátriz que muestra el comportamiento de ventas por categpría y contrasta con de segmento del mercado donde esta enfocada la empresa. Aquí podemos resaltar que el segmento Consumidor representa el 50% del total de ventas, Corporativo el 31% y Home office el 19%. Asimismo, se puede filtrar por país cada una de las categorías y evaluar su comportamiento.
 
 7. En el citado Dashboard página Detalle por cliente, en una tabla se muestran los datos básicos de clientes, nombre, ciudad CP, Estado, ID. Se vincula con página General y en particular con la gráfica de barras donde se muestran las ventas por producto y con la opción de consultar el detalle por clientes que compraron algún producto.
 
